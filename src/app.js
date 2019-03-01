@@ -1,5 +1,5 @@
 
-// imports bootstrap js
+// import twitter bootstrap
 import 'bootstrap';
 
 

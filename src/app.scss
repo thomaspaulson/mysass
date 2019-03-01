@@ -1,6 +1,10 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+
 // over ride bootstrap varible here
 $white:    #fff;
-$gray-100: #f8f9fa !default;
+$gray-100: #f8f9fa;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
@@ -32,8 +36,10 @@ $container-max-widths: (
   sm: 540px,
   md: 720px,
   lg: 960px,
-  xl: 1140px
+  xl: 1400px
 );
+
+$font-family-sans-serif:      -apple-system, Arimo, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 @import "~bootstrap/scss/bootstrap";
 
