@@ -1,5 +1,5 @@
-//require('bootstrap')
 
+// imports bootstrap js
 import 'bootstrap';
 
 

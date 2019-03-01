@@ -30,7 +30,7 @@
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
-  --breakpoint-xl: 1200px;
+  --breakpoint-xl: 1400px;
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
@@ -450,7 +450,7 @@ pre {
   @media (min-width: 992px) {
     .container {
       max-width: 960px; } }
-  @media (min-width: 1200px) {
+  @media (min-width: 1400px) {
     .container {
       max-width: 1140px; } }
 
@@ -922,7 +922,7 @@ pre {
   .offset-lg-11 {
     margin-left: 91.66667%; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .col-xl {
     flex-basis: 0;
     flex-grow: 1;
@@ -1265,7 +1265,7 @@ pre {
     .table-responsive-lg > .table-bordered {
       border: 0; } }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 1399.98px) {
   .table-responsive-xl {
     display: block;
     width: 100%;
@@ -2158,7 +2158,7 @@ input[type="button"].btn-block {
     right: 0;
     left: auto; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .dropdown-menu-xl-right {
     right: 0;
     left: auto; } }
@@ -2182,7 +2182,7 @@ input[type="button"].btn-block {
     right: auto;
     left: 0; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .dropdown-menu-xl-left {
     right: auto;
     left: 0; } }
@@ -3082,13 +3082,13 @@ input[type="button"].btn-block {
     .navbar-expand-lg .navbar-toggler {
       display: none; } }
 
-@media (max-width: 1199.98px) {
+@media (max-width: 1399.98px) {
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid {
     padding-right: 0;
     padding-left: 0; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .navbar-expand-xl {
     flex-flow: row nowrap;
     justify-content: flex-start; }
@@ -4041,7 +4041,7 @@ a.close.disabled {
   .modal-xl {
     max-width: 800px; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .modal-xl {
     max-width: 1140px; } }
 
@@ -4722,7 +4722,7 @@ button.bg-dark:focus {
   .d-lg-inline-flex {
     display: inline-flex !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .d-xl-none {
     display: none !important; }
   .d-xl-inline {
@@ -5108,7 +5108,7 @@ button.bg-dark:focus {
   .align-self-lg-stretch {
     align-self: stretch !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .flex-xl-row {
     flex-direction: row !important; }
   .flex-xl-column {
@@ -5211,7 +5211,7 @@ button.bg-dark:focus {
   .float-lg-none {
     float: none !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .float-xl-left {
     float: left !important; }
   .float-xl-right {
@@ -6442,7 +6442,7 @@ button.bg-dark:focus {
   .mx-lg-auto {
     margin-left: auto !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .m-xl-0 {
     margin: 0 !important; }
   .mt-xl-0,
@@ -6746,7 +6746,7 @@ button.bg-dark:focus {
   .text-lg-center {
     text-align: center !important; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .text-xl-left {
     text-align: left !important; }
   .text-xl-right {
